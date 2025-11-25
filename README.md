@@ -24,8 +24,6 @@ I love building scalable apps, automating workflows, and designing resilient inf
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamim-hmizi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=tamim-hmizi&show_icons=true&theme=radical&count_private=true&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tamim-hmizi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
