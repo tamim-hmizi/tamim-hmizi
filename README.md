@@ -16,8 +16,8 @@
 
 ## 💼 Current Roles
 
-- 🏢 **Infrastructure Consultant** @ [RFC](https://rfc.com.tn) • *Oct 2025 -- Present*
 - 🚀 **Founder & CEO** @ [Axynoxia](https://axynoxia.com) • *Jan 2025 -- Present*
+- 🏢 **Infrastructure Consultant** @ [RFC](https://rfc.com.tn) • *Oct 2025 -- Present*
 - 🎯 Open to Cloud/DevOps or platform engineering roles
 
 ---
@@ -77,6 +77,15 @@
 ## 💼 Professional Experience
 
 <details>
+<summary><b>🚀 Founder & CEO @ Axynoxia</b> • <i>Jan 2025 -- Present</i></summary>
+
+- Founded enterprise technology consulting firm
+- Specialize in scalable software solutions, AI implementations, and cloud architecture
+- Serve Fortune 500 companies across diverse industries
+
+</details>
+
+<details>
 <summary><b>🏢 Infrastructure Consultant @ RFC</b> • <i>Oct 2025 -- Present</i></summary>
 
 - Strategic infrastructure guidance for cloud services and data center modernization
@@ -120,15 +129,6 @@
 
 - Provided B2B network support and maintenance
 - Monitored links and resolved connectivity incidents
-
-</details>
-
-<details>
-<summary><b>🚀 Founder & CEO @ Axynoxia</b> • <i>Jan 2025 -- Present</i></summary>
-
-- Founded enterprise technology consulting firm
-- Specialize in scalable software solutions, AI implementations, and cloud architecture
-- Serve Fortune 500 companies across diverse industries
 
 </details>
 
