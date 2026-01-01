@@ -4,9 +4,9 @@
 
 **Full Stack Software Engineer | Cloud & DevOps Enthusiast | Infrastructure Consultant**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tamim-hmizi.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamimhmizi/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamimhmizi@icloud.com)
+<a href="https://tamim-hmizi.github.io/Portfolio/"><img src="https://skillicons.dev/icons?i=github" alt="Portfolio" width="40" height="40" /></a>
+<a href="https://www.linkedin.com/in/tamimhmizi/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" /></a>
+<a href="mailto:tamimhmizi@icloud.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40" /></a>
 
 *Designing scalable systems • Automating workflows • Building cloud-native solutions*
 
@@ -16,7 +16,7 @@
 
 ## 💼 Current Roles
 
-- 🏢 **Infrastructure Consultant** @ [RFC](https://rfc.tn) • *Oct 2025 -- Present*
+- 🏢 **Infrastructure Consultant** @ [RFC](https://rfc.com.tn) • *Oct 2025 -- Present*
 - 🚀 **Founder & CEO** @ [Axynoxia](https://axynoxia.com) • *Jan 2025 -- Present*
 - 🎯 Open to junior Cloud/DevOps or platform engineering roles
 
@@ -29,9 +29,6 @@
 <div align="center">
 
 ![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp)
-
-![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
 </div>
 
@@ -165,10 +162,10 @@
 
 ### 💬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamimhmizi/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tamim-hmizi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tamim-hmizi.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamimhmizi@icloud.com)
+<a href="https://www.linkedin.com/in/tamimhmizi/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" /></a>
+<a href="https://github.com/tamim-hmizi"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" /></a>
+<a href="https://tamim-hmizi.github.io/Portfolio/"><img src="https://skillicons.dev/icons?i=github" alt="Portfolio" width="40" height="40" /></a>
+<a href="mailto:tamimhmizi@icloud.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40" /></a>
 
 **⭐️ From [tamim-hmizi](https://github.com/tamim-hmizi)**
 
