@@ -14,18 +14,20 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/tamim-hmizi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamim-hmizi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamim-hmizi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=tamim-hmizi&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true&hide=issues" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamim-hmizi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 </a>
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=tamim-hmizi&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+</div>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tamim-hmizi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7)
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=tamim-hmizi&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 </div>
 
@@ -33,8 +35,8 @@
 
 ## 💼 Current Roles
 
-- 🏢 **Infrastructure Consultant** @ [RFC](https://rfc.tn) | *Oct 2025 - Present*
-- 🚀 **Founder & CEO** @ [Axynoxia](https://axynoxia.com) | *Jan 2020 - Present*
+- 🏢 **Infrastructure Consultant** @ [RFC](https://rfc.tn) • *Oct 2025 -- Present*
+- 🚀 **Founder & CEO** @ [Axynoxia](https://axynoxia.com) • *Jan 2025 -- Present*
 - 🎯 Open to junior Cloud/DevOps or platform engineering roles
 
 ---
@@ -104,7 +106,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis)
 
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=dynamodb)
 
 </div>
 
@@ -114,8 +116,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=linux,ubuntu)
 
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=windows)
 
 </div>
 
@@ -124,7 +125,7 @@
 ## 💼 Professional Experience
 
 <details>
-<summary><b>🏢 Infrastructure Consultant @ RFC</b> • <i>Oct 2025 - Present</i></summary>
+<summary><b>🏢 Infrastructure Consultant @ RFC</b> • <i>Oct 2025 -- Present</i></summary>
 
 - Strategic infrastructure guidance for cloud services and data center modernization
 - Design and implement scalable, secure IT infrastructures
@@ -133,7 +134,7 @@
 </details>
 
 <details>
-<summary><b>🎓 PFE Intern — DevOps Platform Engineer @ RFC</b> • <i>Feb 2025 - Aug 2025</i></summary>
+<summary><b>🎓 PFE Intern — DevOps Platform Engineer @ RFC</b> • <i>Feb 2025 -- Aug 2025</i></summary>
 
 - Architected **DevOps-as-a-Service (DaaS) platform** with AI-powered infrastructure recommendations
 - Built full-stack auto-provisioning platform (React, Express.js, MongoDB, FastAPI)
@@ -144,7 +145,7 @@
 </details>
 
 <details>
-<summary><b>💻 Full Stack Engineer @ RFC</b> • <i>Jul 2024 - Aug 2024</i></summary>
+<summary><b>💻 Full Stack Engineer @ RFC</b> • <i>Jul 2024 -- Aug 2024</i></summary>
 
 - Developed cloud-native applications with Next.js on AWS (EKS, ECR, DynamoDB, CloudWatch)
 - Built intern management system with authentication and real-time sync
@@ -154,7 +155,7 @@
 </details>
 
 <details>
-<summary><b>🌐 Web Developer @ ESPRIT</b> • <i>Jul 2023 - Aug 2023</i></summary>
+<summary><b>🌐 Web Developer @ ESPRIT</b> • <i>Jul 2023 -- Aug 2023</i></summary>
 
 - Developed MERN stack search-engine application for students
 - Implemented advanced search with React hooks and MongoDB aggregation
@@ -163,7 +164,15 @@
 </details>
 
 <details>
-<summary><b>🚀 Founder & CEO @ Axynoxia</b> • <i>Jan 2020 - Present</i></summary>
+<summary><b>🌐 Network Engineer C-NOC @ Tunisie Telecom</b> • <i>Aug 2021 -- Sep 2021</i></summary>
+
+- Provided B2B network support and maintenance
+- Monitored links and resolved connectivity incidents
+
+</details>
+
+<details>
+<summary><b>🚀 Founder & CEO @ Axynoxia</b> • <i>Jan 2025 -- Present</i></summary>
 
 - Founded enterprise technology consulting firm
 - Specialize in scalable software solutions, AI implementations, and cloud architecture
@@ -191,11 +200,11 @@
 
 ---
 
-## 📈 GitHub Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tamim-hmizi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tamim-hmizi&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_title=true)
 
 </div>
 
