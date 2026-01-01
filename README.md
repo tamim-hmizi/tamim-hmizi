@@ -18,7 +18,7 @@
 
 - 🏢 **Infrastructure Consultant** @ [RFC](https://rfc.com.tn) • *Oct 2025 -- Present*
 - 🚀 **Founder & CEO** @ [Axynoxia](https://axynoxia.com) • *Jan 2025 -- Present*
-- 🎯 Open to junior Cloud/DevOps or platform engineering roles
+- 🎯 Open to Cloud/DevOps or platform engineering roles
 
 ---
 
