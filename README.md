@@ -14,25 +14,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/tamim-hmizi">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=tamim-hmizi&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true&hide=issues" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamim-hmizi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-</a>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=tamim-hmizi&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-</div>
-
----
-
 ## 💼 Current Roles
 
 - 🏢 **Infrastructure Consultant** @ [RFC](https://rfc.tn) • *Oct 2025 -- Present*
@@ -76,11 +57,7 @@
 
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,prometheus,grafana)
-
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,prometheus,grafana,helm,elasticsearch)
 
 </div>
 
@@ -199,14 +176,6 @@
 ![French](https://img.shields.io/badge/French-B2-0066CC?style=for-the-badge)
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tamim-hmizi&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_title=true)
-
-</div>
 
 ---
 
