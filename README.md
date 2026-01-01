@@ -4,7 +4,7 @@
 
 **Full Stack Software Engineer | Cloud & DevOps Enthusiast | Infrastructure Consultant**
 
-<a href="https://tamim-hmizi.github.io/Portfolio/"><img src="https://skillicons.dev/icons?i=html" alt="Portfolio" width="40" height="40" /></a>
+<a href="https://tamim-hmizi.github.io/Portfolio/"><img src="https://tamim-hmizi.github.io/Portfolio/portfolio.png" alt="Portfolio" width="40" height="40" /></a>
 <a href="https://www.linkedin.com/in/tamimhmizi/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" /></a>
 <a href="mailto:tamimhmizi@icloud.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40" /></a>
 
@@ -36,7 +36,7 @@
 
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,prometheus,grafana,helm,elasticsearch)
+![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,prometheus,grafana,elasticsearch)
 
 </div>
 
@@ -160,7 +160,7 @@
 
 <a href="https://www.linkedin.com/in/tamimhmizi/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" /></a>
 <a href="https://github.com/tamim-hmizi"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" /></a>
-<a href="https://tamim-hmizi.github.io/Portfolio/"><img src="https://skillicons.dev/icons?i=html" alt="Portfolio" width="40" height="40" /></a>
+<a href="https://tamim-hmizi.github.io/Portfolio/"><img src="https://tamim-hmizi.github.io/Portfolio/portfolio.png" alt="Portfolio" width="40" height="40" /></a>
 <a href="mailto:tamimhmizi@icloud.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40" /></a>
 
 **⭐️ From [tamim-hmizi](https://github.com/tamim-hmizi)**
