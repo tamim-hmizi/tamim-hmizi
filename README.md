@@ -30,40 +30,118 @@
 ## 🛠️ Core Technical Skills
 
 ### ☁️ Cloud & Platforms
-Azure, AWS, GCP, OpenStack, DigitalOcean, Hybrid Cloud, IaaS, PaaS
+
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp)
+
+</div>
+
+**Technologies:** Azure, AWS, GCP, OpenStack, DigitalOcean, Hybrid Cloud, IaaS, PaaS
 
 ### 🐳 Containers & Orchestration
-Docker, Docker Compose, Kubernetes, Helm
+
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,helm)
+
+</div>
+
+**Technologies:** Docker, Docker Compose, Kubernetes, Helm
 
 ### 🔧 DevOps & Automation
-Jenkins, GitHub Actions, GitLab CI, Terraform, Ansible, CI/CD Pipelines, Infrastructure as Code (IaC), Nexus
+
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab,prometheus,grafana,elasticsearch)
+
+</div>
+
+**Technologies:** Jenkins, GitHub Actions, GitLab CI, Terraform, Ansible, CI/CD Pipelines, Infrastructure as Code (IaC), Nexus
 
 ### 📊 Monitoring & Observability
-Grafana, Prometheus, ELK Stack, CloudWatch, Alerting, Metrics, Dashboards
+
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch,aws)
+
+</div>
+
+**Technologies:** Grafana, Prometheus, ELK Stack, CloudWatch, Alerting, Metrics, Dashboards
 
 ### 🔒 Security & Quality
-Fortinet Firewalls, VPN, Network Segmentation, IAM, SonarQube, Trivy, OWASP
+
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=sonarqube)
+
+</div>
+
+**Technologies:** Fortinet Firewalls, VPN, Network Segmentation, IAM, SonarQube, Trivy, OWASP
 
 ### 💾 Backup & DR
-Commvault (backup jobs, restore testing, failure analysis, reporting)
+
+**Technologies:** Commvault (backup jobs, restore testing, failure analysis, reporting)
 
 ### 🖥️ Systems & Identity
-Linux, Windows Server, Active Directory, Microsoft 365
+
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows)
+
+</div>
+
+**Technologies:** Linux, Windows Server, Active Directory, Microsoft 365
 
 ### 💻 Programming Languages
-Python, Bash, Java, JavaScript, TypeScript, C, C++, C#, PHP, Assembly, SQL
+
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,php,cpp,bash)
+
+</div>
+
+**Technologies:** Python, Bash, Java, JavaScript, TypeScript, C, C++, C#, PHP, Assembly, SQL
 
 ### ⚙️ Backend Frameworks
-FastAPI, Django, Flask, Express.js, Spring Boot, Node.js, REST APIs
+
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular,vue,nodejs,express,fastapi,django,spring,nestjs,flask,graphql)
+
+</div>
+
+**Technologies:** FastAPI, Django, Flask, Express.js, Spring Boot, Node.js, REST APIs
 
 ### 🌐 Frontend Frameworks
-Angular, React, Next.js, Vue.js, HTML, CSS
+
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular,vue,html,css)
+
+</div>
+
+**Technologies:** Angular, React, Next.js, Vue.js, HTML, CSS
 
 ### 💾 Databases
-MongoDB, MySQL, PostgreSQL, DynamoDB, Redis
+
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,dynamodb)
+
+</div>
+
+**Technologies:** MongoDB, MySQL, PostgreSQL, DynamoDB, Redis
 
 ### 📝 Version Control
-Git, GitHub, GitLab, Bitbucket, Gitea
+
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)
+
+</div>
+
+**Technologies:** Git, GitHub, GitLab, Bitbucket, Gitea
 
 ---
 
