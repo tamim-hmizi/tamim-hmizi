@@ -2,172 +2,263 @@
 
 # 👋 Hi, I'm Tamim Hmizi
 
-### Infrastructure Consultant @ RFC • Cloud & DevOps Engineer • SaaS & Full-Stack
+**Infrastructure Consultant | Cloud & DevOps | SaaS & Full-Stack**
 
-Ariana, Tunisia • **Hybrid Cloud / Platform Engineering** • CI/CD • Observability • Security • Backup/DR
+<a href="https://tamim-hmizi.github.io/Portfolio/"><img src="https://tamim-hmizi.github.io/Portfolio/portfolio.png" alt="Portfolio" width="40" height="40" /></a>
+<a href="mailto:tamimhmizi@icloud.com"><img src="https://skillicons.dev/icons?i=apple" alt="Email" width="40" height="40" /></a>
+<a href="https://www.linkedin.com/in/tamimhmizi/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" /></a>
+<a href="https://github.com/tamim-hmizi"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" /></a>
 
-<a href="mailto:tamimhmizi@icloud.com"><img alt="Email" src="https://img.shields.io/badge/Email-icloud.com-black?style=for-the-badge&logo=apple&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/tamimhmizi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-tamimhmizi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/tamim-hmizi"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-tamim--hmizi-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://tamim-hmizi.github.io/Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=tamim-hmizi&style=flat-square" alt="profile views" />
+*Building production hybrid cloud • Automating CI/CD • Observability • Security • Backup/DR*
 
 </div>
 
 ---
 
-## ⚡ What I do
-- Build and operate **production hybrid cloud** platforms (**Azure Stack Hub + Azure**)
-- Design **CI/CD** pipelines, **IaC** automation, and **cloud-native** deployments
-- Deliver **observability** (Prometheus/Grafana/ELK), **security** hardening, and **backup/DR** operations
+## 💼 Current Role
+
+- 🏢 **Infrastructure Consultant** @ **RFC** • *Oct 2025 -- Present* • Ariana, Tunisia
+- 🔧 Operating **Azure Stack Hub + Public Azure** hybrid cloud for SaaS and enterprise services
 
 ---
 
-## 🧭 Current Role
-**Infrastructure Consultant — RFC** (Oct 2025 — Present) • Ariana, Tunisia  
-- Hybrid cloud operations (**Azure Stack Hub integrated with public Azure**) for SaaS + enterprise services  
-- Network/security ops: **Fortinet firewalls** + **Cisco**  
-- Endpoint/server protection: **Trend Micro**  
-- Backup/DR: **Commvault** (jobs, restores, failure analysis, reporting)  
-- Enterprise IT: **Active Directory** + **Microsoft 365**  
+## 👤 Professional Profile
+
+**Cloud & DevOps Engineer and Infrastructure Consultant** with experience in SaaS and full-stack application delivery.  
+I manage the complete lifecycle of modern software systems: infrastructure design + automation, CI/CD, deployment, monitoring, and production operations.  
+Strong background in hybrid and cloud-native environments, DevOps pipelines, observability, security, and enterprise IT systems supporting scalable applications.
 
 ---
 
-## 🧰 Tech Stack (visual first)
+## 🛠️ Core Technical Skills
 
+### ☁️ Cloud & Platforms
 <div align="center">
 
-### Cloud / Platforms
-<img src="https://skillicons.dev/icons?i=azure,aws,gcp,linux,windows&perline=10" />
-
-### Containers / Orchestration
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm&perline=10" />
-
-### DevOps / IaC / CI
-<img src="https://skillicons.dev/icons?i=terraform,ansible,jenkins,githubactions,gitlab&perline=10" />
-
-### Observability
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch&perline=10" />
-
-### Code
-<img src="https://skillicons.dev/icons?i=python,bash,js,ts,java,php,cpp&perline=14" />
-
-### Data
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,dynamodb&perline=10" />
-
-### VCS
-<img src="https://skillicons.dev/icons?i=git,github,gitlab&perline=10" />
+![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp,openstack)
 
 </div>
 
-> **Also used (enterprise tooling):** OpenStack, DigitalOcean, Nexus, SonarQube, Trivy, OWASP, VPN, Network Segmentation, IAM, Active Directory, Microsoft 365, Bitbucket, Gitea, Commvault, Fortinet, Cisco.
+**Technologies:** Azure, AWS, GCP, OpenStack, DigitalOcean, Hybrid Cloud, IaaS, PaaS
+
+### 🐳 Containers & Orchestration
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,helm)
+
+</div>
+
+**Technologies:** Docker, Docker Compose, Kubernetes, Helm
+
+### 🔧 DevOps & Automation
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=terraform,ansible,jenkins,githubactions,gitlab)
+
+</div>
+
+**Technologies:** Jenkins, GitHub Actions, GitLab CI, Terraform, Ansible, CI/CD Pipelines, Infrastructure as Code (IaC), Nexus
+
+### 📊 Monitoring & Observability
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch,aws)
+
+</div>
+
+**Technologies:** Grafana, Prometheus, ELK Stack, CloudWatch, Alerting, Metrics, Dashboards
+
+### 🔒 Security & Quality
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=sonarqube)
+
+</div>
+
+**Technologies:** Fortinet Firewalls, VPN, Network Segmentation, IAM, SonarQube, Trivy, OWASP
+
+### 💾 Backup & DR
+**Technologies:** Commvault (backup jobs, restore testing, failure analysis, reporting)
+
+### 🖥️ Systems & Identity
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=linux,windows)
+
+</div>
+
+**Technologies:** Linux, Windows Server, Active Directory, Microsoft 365
+
+### 💻 Programming Languages
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=py,bash,java,js,ts,c,cpp,cs,php)
+
+</div>
+
+**Technologies:** Python, Bash, Java, JavaScript, TypeScript, C, C++, C#, PHP, Assembly, SQL
+
+### ⚙️ Backend Frameworks
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express,spring)
+
+</div>
+
+**Technologies:** FastAPI, Django, Flask, Express.js, Spring Boot, Node.js, REST APIs
+
+### 🌐 Frontend Frameworks
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs,vue,html,css)
+
+</div>
+
+**Technologies:** Angular, React, Next.js, Vue.js, HTML, CSS
+
+### 💾 Databases
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,dynamodb)
+
+</div>
+
+**Technologies:** MongoDB, MySQL, PostgreSQL, DynamoDB, Redis
+
+### 📝 Version Control
+<div align="center">
+
+![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket)
+
+</div>
+
+**Technologies:** Git, GitHub, GitLab, Bitbucket, Gitea
 
 ---
 
-## 🏗️ Highlight Projects (from my CV)
+## 💼 Professional Experience
 
-### ✅ DevOps-as-a-Service (SaaS) — PFE @ RFC (Feb 2025 — Aug 2025)
-- AI-driven repo inspection (LLM-based): structure, dependencies, runtime needs
-- Automated decision between:
-  - **VM deployments** (one-tier/monolith)
-  - **AKS deployments** (microservices)
-- Tooling: **Jenkins CI/CD**, **Terraform**, **Ansible**, **Docker/Compose**, **Nexus**, **SonarQube**, **Prometheus + Grafana**
-- Result: provisioning + deployment time reduced by ~**70%**
+<details>
+<summary><b>🏢 Infrastructure Consultant — RFC</b> • <i>Oct 2025 -- Present</i> • <i>Ariana, Tunisia</i></summary>
 
-### ✅ Enterprise Monitoring Platform — RFC
-- Custom **Grafana dashboards** for cloud/infrastructure
-- Custom **Python exporter** hitting **Azure Stack Hub APIs** via **Azure AD app registration**
-- Metrics pipeline **Prometheus-compatible**, alerting + dashboards
-- Fully code-driven + **Dockerized**
+- Operate and support **production hybrid cloud infrastructure** based on **Azure Stack Hub integrated with public Azure** to deliver SaaS and enterprise services.
+- Administer and troubleshoot enterprise **network and security infrastructure** using **Fortinet firewalls** and **Cisco networking equipment**.
+- Implement endpoint and server protection using **Trend Micro antivirus** across infrastructure environments.
+- Operate and maintain **Commvault backup infrastructure**, including backup execution, restore validation, failure analysis, and reporting.
+- Provide infrastructure support through incident handling, troubleshooting, and service request resolution.
+- Deliver technical workshops and client training sessions focused on infrastructure usage, security, and backup strategy.
+- Manage **Active Directory** services and participate in **Microsoft 365** tenant administration.
 
-### ✅ OpenStack Private Cloud Lab — ESPRIT
-- Multi-node OpenStack deployment, VPN networking, virtual networks/routing
-- Operated VMs + full-stack apps inside the lab
+</details>
+
+<details>
+<summary><b>🎓 DevOps Platform Engineer — Final Year Project (PFE), RFC</b> • <i>Feb 2025 -- Aug 2025</i></summary>
+
+- Designed and implemented a **DevOps-as-a-Service SaaS platform** to automate application analysis, deployment, and monitoring.
+- Built a **monolithic core application** using **React**, **Express.js**, **FastAPI**, and **MongoDB**, with separation between frontend, API gateway, and backend services.
+- Integrated an **AI-driven analysis engine (LLM-based)** to inspect Git repositories, application structure, dependencies, and runtime requirements.
+- Implemented **multi-architecture deployment logic** (VM for monolith/one-tier, AKS for microservices).
+- Developed **two MERN e-commerce applications** as real deployment use cases (VM monolith + AKS microservices backend).
+- Automated **VM deployments** using **Terraform**, **Ansible**, and **Docker / Docker Compose**.
+- Implemented **AKS microservices deployments** using **AKS Engine**, **kubectl**, and Kubernetes **YAML manifests**.
+- Designed and implemented **CI/CD pipelines using Jenkins** covering build, test, quality, security, artifacts, and deployment.
+- Integrated **SonarQube** (quality) and **Nexus** (artifacts).
+- Implemented **observability** using **Prometheus** and **Grafana**.
+- Reduced provisioning + deployment time by ~**70%** through automation.
+
+</details>
+
+<details>
+<summary><b>💻 Cloud & Full Stack Engineer — Internship, RFC</b> • <i>Jul 2024 -- Aug 2024</i></summary>
+
+- Developed a **cloud-native web application** for the **management of interns** (onboarding, tracking, admin workflows).
+- Deployed on **AWS EKS (Kubernetes)** using a fully containerized architecture.
+- Built end-to-end **CI/CD** using **Jenkins**, **Docker**, **Terraform**, and **GitHub Actions**.
+- Implemented **IAM security controls** and monitoring using **Prometheus** and **Grafana**.
+
+</details>
+
+<details>
+<summary><b>🌐 Web Developer — Internship, ESPRIT</b> • <i>Jul 2023 -- Aug 2023</i></summary>
+
+- Designed and developed a platform scraping **official educational websites** to collect and aggregate online courses.
+- Implemented **Python web scraping** to extract metadata (title, provider, duration, difficulty).
+- Normalized and stored data in a structured database for efficient search and filtering.
+- Built backend services to rank and recommend the **best courses** based on user criteria.
+- Built a responsive web interface for search, compare, and discovery.
+- Ensured reliability by targeting only **official and verified** providers.
+
+</details>
+
+<details>
+<summary><b>🌐 Network Engineer Intern (C-NOC) — Tunisie Telecom</b> • <i>Aug 2021 -- Sep 2021</i></summary>
+
+- Worked in the national B2B Network Operations Center.
+- Monitored enterprise network links and handled connectivity incidents.
+- Assisted in troubleshooting routing and service availability issues.
+
+</details>
 
 ---
 
-## 💼 Experience (expand)
-<details>
-<summary><b>Infrastructure Consultant — RFC (Oct 2025 — Present)</b></summary>
+## 🚀 Academic & Technical Projects
 
-- Operate and support production hybrid cloud infrastructure (Azure Stack Hub + Azure)
-- Administer Fortinet firewalls + Cisco networking (policies, segmentation, routing/NAT, troubleshooting)
-- Run Commvault backup operations (execution, restore validation, failure analysis, reporting)
-- Support incidents + service requests; deliver workshops/training
-- Active Directory operations + Microsoft 365 tenant administration
+<details>
+<summary><b>Enterprise Monitoring Platform — RFC</b></summary>
+
+- Designed and implemented **custom Grafana dashboards** to monitor cloud and infrastructure environments.
+- Developed a **custom Python exporter** communicating with **Azure Stack Hub APIs** using **Azure AD application registration**.
+- Collected metrics and exposed them in **Prometheus-compatible** format.
+- Integrated **Prometheus** for scraping, storage, and alerting rule evaluation.
+- Visualized metrics and alerts in **Grafana** to improve operational visibility and response time.
+- Delivered a fully **code-driven** solution with components **containerized using Docker**.
 
 </details>
 
 <details>
-<summary><b>DevOps Platform Engineer — PFE, RFC (Feb 2025 — Aug 2025)</b></summary>
+<summary><b>DevOps CI/CD Platform — ESPRIT</b></summary>
 
-- Built DevOps-as-a-Service SaaS platform: analysis → deploy → monitor
-- React + Express.js + FastAPI + MongoDB (frontend / gateway / backend separation)
-- VM automation with Terraform + Ansible + Docker/Compose
-- AKS deployments with AKS Engine + kubectl + Kubernetes manifests
-- Jenkins pipelines including quality/security + artifacts (SonarQube + Nexus)
-- Observability with Prometheus + Grafana
+- Built an end-to-end CI/CD pipeline using **Jenkins**, **Docker**, **Docker Compose**, **SonarQube**, and **Nexus**.
+- Deployed **Angular** frontend and **Spring Boot** backend.
+- Implemented monitoring with **Prometheus** and **Grafana**.
 
 </details>
 
 <details>
-<summary><b>Cloud & Full-Stack Engineer — Internship, RFC (Jul 2024 — Aug 2024)</b></summary>
+<summary><b>OpenStack Private Cloud Lab — ESPRIT</b></summary>
 
-- Cloud-native web app for intern management (onboarding, tracking, admin workflows)
-- Deployed on AWS EKS (containerized architecture)
-- CI/CD with Jenkins + Docker + Terraform + GitHub Actions
-- IAM controls + monitoring with Prometheus + Grafana
-
-</details>
-
-<details>
-<summary><b>Web Developer — Internship, ESPRIT (Jul 2023 — Aug 2023)</b></summary>
-
-- Web platform scraping official education sites to aggregate online courses
-- Python scraping modules; normalized data storage; search/filter UX
-- Backend ranking + recommendation services
-
-</details>
-
-<details>
-<summary><b>Network Engineer Intern (C-NOC) — Tunisie Telecom (Aug 2021 — Sep 2021)</b></summary>
-
-- B2B NOC monitoring
-- Connectivity incident handling + routing/service availability troubleshooting support
+- Designed and deployed a multi-node **OpenStack private cloud**.
+- Connected physical nodes via **VPN networking** and implemented networks/subnets/routing.
+- Deployed and operated VMs and full-stack web apps in OpenStack.
 
 </details>
 
 ---
 
 ## 🎓 Education
-**Software Engineering Degree — ESPRIT** (2020 — 2025) • Ariana, Tunisia
+
+**Software Engineering Degree** | ESPRIT — Ariana, Tunisia  
+*2020 -- 2025*
 
 ---
 
 ## 🌍 Languages
-<img alt="Arabic" src="https://img.shields.io/badge/Arabic-Native-0B7285?style=for-the-badge" />
-<img alt="English" src="https://img.shields.io/badge/English-B2-0B7285?style=for-the-badge" />
-<img alt="French" src="https://img.shields.io/badge/French-B2-0B7285?style=for-the-badge" />
+
+![Arabic](https://img.shields.io/badge/Arabic-Native-0066CC?style=for-the-badge)
+![English](https://img.shields.io/badge/English-B2-0066CC?style=for-the-badge)
+![French](https://img.shields.io/badge/French-B2-0066CC?style=for-the-badge)
 
 ---
 
 <div align="center">
 
-## 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=tamim-hmizi&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamim-hmizi&layout=compact" height="160" />
+### 💬 Let's Connect!
 
-</div>
+<a href="https://www.linkedin.com/in/tamimhmizi/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" /></a>
+<a href="https://github.com/tamim-hmizi"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" /></a>
+<a href="https://tamim-hmizi.github.io/Portfolio/"><img src="https://tamim-hmizi.github.io/Portfolio/portfolio.png" alt="Portfolio" width="40" height="40" /></a>
+<a href="mailto:tamimhmizi@icloud.com"><img src="https://skillicons.dev/icons?i=apple" alt="Email" width="40" height="40" /></a>
 
----
-
-<div align="center">
-
-### 🤝 Contact
-<a href="mailto:tamimhmizi@icloud.com"><img alt="Email" src="https://img.shields.io/badge/tamimhmizi@icloud.com-Email-black?style=for-the-badge&logo=apple&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/tamimhmizi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+**⭐️ From [tamim-hmizi](https://github.com/tamim-hmizi)**
 
 </div>
