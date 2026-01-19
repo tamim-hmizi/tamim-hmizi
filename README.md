@@ -42,7 +42,7 @@ Strong background in hybrid and cloud-native environments, DevOps pipelines, obs
 ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
-![Hybrid Cloud](https://img.shields.io/badge/Hybrid%20Cloud-2B2B2B?style=for-the-badge&logo=icloud&logoColor=white)
+![Hybrid Cloud](https://img.shields.io/badge/Hybrid%20Cloud-2B2B2B?style=for-the-badge)
 ![IaaS](https://img.shields.io/badge/IaaS-2B2B2B?style=for-the-badge)
 ![PaaS](https://img.shields.io/badge/PaaS-2B2B2B?style=for-the-badge)
 
@@ -117,7 +117,7 @@ Strong background in hybrid and cloud-native environments, DevOps pipelines, obs
 <div align="center">
 
 ![Commvault](https://img.shields.io/badge/Commvault-2B2B2B?style=for-the-badge)
-![Backup](https://img.shields.io/badge/Backup-2B2B2B?style=for-the-badge&logo=icloud&logoColor=white)
+![Backup](https://img.shields.io/badge/Backup-2B2B2B?style=for-the-badge)
 ![Disaster Recovery](https://img.shields.io/badge/Disaster%20Recovery-2B2B2B?style=for-the-badge)
 ![Nexus (Sonatype)](https://img.shields.io/badge/Nexus%20(Sonatype)-1B1F23?style=for-the-badge&logo=sonatype&logoColor=white)
 
@@ -151,7 +151,7 @@ Strong background in hybrid and cloud-native environments, DevOps pipelines, obs
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-![Assembly](https://img.shields.io/badge/Assembly-2B2B2B?style=for-the-badge)
+![Assembly](https://img.shields.io/badge/Assembly-2B2B2B?style=for-the-badge&logo=github&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-2B2B2B?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
