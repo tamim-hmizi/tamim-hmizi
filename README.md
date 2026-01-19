@@ -32,9 +32,6 @@ Strong background in hybrid and cloud-native environments, DevOps pipelines, obs
 
 ## 🛠️ Core Technical Skills (with icons)
 
-> Badges use Shields.io + Simple Icons where available. (e.g., Fortinet, Trend Micro, Trivy, OWASP, Sonatype are present in Simple Icons.)  
-> References: Simple Icons project + slug list (Fortinet `fortinet`, Trend Micro `trendmicro`, Trivy `trivy`, OWASP `owasp`, Sonatype `sonatype`).  
-
 ### ☁️ Cloud & Platforms
 <div align="center">
 
@@ -91,8 +88,8 @@ Strong background in hybrid and cloud-native environments, DevOps pipelines, obs
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=black)
 
-![Alerting](https://img.shields.io/badge/Alerting-2B2B2B?style=for-the-badge&logo=bell&logoColor=white)
-![Metrics](https://img.shields.io/badge/Metrics-2B2B2B?style=for-the-badge&logo=datadog&logoColor=white)
+![Alerting](https://img.shields.io/badge/Alerting-2B2B2B?style=for-the-badge&logo=pagerduty&logoColor=white)
+![Metrics](https://img.shields.io/badge/Metrics-2B2B2B?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Dashboards](https://img.shields.io/badge/Dashboards-2B2B2B?style=for-the-badge&logo=grafana&logoColor=white)
 
 </div>
@@ -105,12 +102,11 @@ Strong background in hybrid and cloud-native environments, DevOps pipelines, obs
 ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 ![VPN](https://img.shields.io/badge/VPN-2B2B2B?style=for-the-badge&logo=wireguard&logoColor=white)
 ![Network Segmentation](https://img.shields.io/badge/Network%20Segmentation-2B2B2B?style=for-the-badge&logo=cisco&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazoniam&logoColor=black)
+![IAM](https://img.shields.io/badge/IAM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-
 ![Trend Micro](https://img.shields.io/badge/Trend%20Micro-008000?style=for-the-badge&logo=trendmicro&logoColor=white)
 
 </div>
@@ -123,7 +119,6 @@ Strong background in hybrid and cloud-native environments, DevOps pipelines, obs
 ![Commvault](https://img.shields.io/badge/Commvault-2B2B2B?style=for-the-badge)
 ![Backup](https://img.shields.io/badge/Backup-2B2B2B?style=for-the-badge&logo=icloud&logoColor=white)
 ![Disaster Recovery](https://img.shields.io/badge/Disaster%20Recovery-2B2B2B?style=for-the-badge)
-
 ![Nexus (Sonatype)](https://img.shields.io/badge/Nexus%20(Sonatype)-1B1F23?style=for-the-badge&logo=sonatype&logoColor=white)
 
 </div>
