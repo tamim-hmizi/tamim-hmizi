@@ -341,9 +341,9 @@ Strong background in hybrid and cloud-native environments, DevOps pipelines, obs
 
 ### 💬 Let's Connect!
 
-<a href="https://www.linkedin.com/in/tamimhmizi/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" /></a>
-<a href="https://github.com/tamim-hmizi"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" /></a>
 <a href="https://tamim-hmizi.github.io/Portfolio/"><img src="https://tamim-hmizi.github.io/Portfolio/portfolio.png" alt="Portfolio" width="40" height="40" /></a>
 <a href="mailto:tamimhmizi@icloud.com"><img src="https://skillicons.dev/icons?i=apple" alt="Email" width="40" height="40" /></a>
+<a href="https://www.linkedin.com/in/tamimhmizi/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" /></a>
+<a href="https://github.com/tamim-hmizi"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" /></a>
 
 </div>
