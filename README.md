@@ -312,6 +312,66 @@ Previously **Infrastructure Consultant for a Microsoft Gold CSP Partner** — ac
 ## 🚀 Projects
 
 <details>
+<summary><b>🟢 B-moovd Ticketing — Event Ticketing Platform</b> &nbsp;•&nbsp; <a href="https://bmoovd-shop.com">bmoovd-shop.com</a></summary>
+
+- Production event ticketing platform for the B'moovd Sportsbar Wolfsburg — currently selling tickets for **FIFA World Cup 2026** public viewing events at Wolfsburg.
+- Developed a full-featured ticketing web application in **Next.js** for the B'moovd venue — a subsidiary of Röhrdanz Unternehmensgruppe.
+- Implemented event listing, ticket selection, and payment flows with complete payment orchestration.
+- Delivered a mobile-optimized storefront with a visual identity aligned with the B'moovd brand.
+- Deployed under the Axynoxia brand, serving thousands of fans across multiple World Cup events.
+
+</details>
+
+<details>
+<summary><b>🟢 B-moovd — High-Performance Mobile Ecosystem</b> &nbsp;•&nbsp; <a href="https://apps.apple.com/de/app/bmoovd/id6736364332">App Store</a> &nbsp;|&nbsp; <a href="https://play.google.com/store/apps/details?id=com.bmoovd.app">Google Play</a></summary>
+
+- High-performance mobile application for smooth booking, payment orchestration, and real-time user engagement.
+- Developed a reactive cross-platform mobile application with **Flutter**, implementing **Provider** state management and smooth **60 FPS** animations.
+- Integrated RESTful API calls with **Dio** and local persistent caching for a smooth offline-first experience.
+- Optimized bundle size and resource allocation for high performance across a wide range of mobile devices.
+
+</details>
+
+<details>
+<summary><b>🟢 Roehrdanz Immobilien — CMS & Modern Real Estate Platform</b> &nbsp;•&nbsp; <a href="https://rimmobilien-test.de/">rimmobilien-test.de</a></summary>
+
+- Real estate listing management, client requests, and service presentations with an integrated admin panel.
+- Delivered a modern real estate platform with a custom **MERN CMS** (React 19, Express 5, MongoDB).
+- Developed a robust admin panel with asynchronous **Base64 image processing** and SEO-optimized dynamic content rendering.
+- Built a secure employee-only dashboard with session authentication, **Bcryptjs** hashing, and **RBAC** for content moderation.
+- Optimized frontend performance with **Vite** and **Tailwind CSS v4**, achieving near-instant load times for high-resolution photo galleries.
+
+</details>
+
+<details>
+<summary><b>🟢 Confortex — Shopify E-commerce</b> &nbsp;•&nbsp; <a href="https://confortex.shop">confortex.shop</a></summary>
+
+- Developed a full **Shopify** store for a premium Tunisian bedding brand, covering mattresses, pillows, beds, baby products, and home linen.
+- Configured a multi-collection product architecture, custom storefront theme, and SEO-optimized blog content to drive organic traffic.
+- Implemented free delivery promotions, newsletter integration, and a multi-showroom contact system across 3 physical locations in Ariana, Tunisia.
+
+</details>
+
+<details>
+<summary><b>🟢 Vie Sublime — Shopify E-commerce</b> &nbsp;•&nbsp; <a href="https://viesublime.tn">viesublime.tn</a></summary>
+
+- Created a premium **Shopify** storefront for a high-end Tunisian brand specializing in artisanal interior, office, outdoor, and school furniture.
+- Structured a multi-collection catalog (Tables & Chairs, Interior Furniture, Office, School, Garden) with a custom theme aligned to a luxury brand identity.
+- Delivered an SEO-focused content blog, newsletter integration, and multi-showroom management to support online and physical sales channels.
+
+</details>
+
+<details>
+<summary><b>🟢 OMHY Entertainment — Managed Video Hub</b> &nbsp;•&nbsp; <a href="https://omhyfamily.com">omhyfamily.com</a></summary>
+
+- Premium digital media hub for high-fidelity video streaming, content portfolios, and interactive user experiences.
+- Developed a video streaming and portfolio platform with **React (Chakra UI)** and **GSAP** for high-fidelity interactive animations.
+- Orchestrated Zero-Downtime deployments via **Jenkins** pipelines with automated quality gates and security audits.
+- Managed hybrid database architectures (**MongoDB** and **MySQL**) to balance flexible content metadata and strict user transaction history.
+
+</details>
+
+<details>
 <summary><b>Enterprise Monitoring Platform — Azure Stack Hub (Production, RFC)</b></summary>
 
 - Real-time monitoring of Azure Stack Hub infrastructure health, storage fabric, and tenant VM performance (IOPS/Compute).
@@ -345,72 +405,12 @@ Previously **Infrastructure Consultant for a Microsoft Gold CSP Partner** — ac
 </details>
 
 <details>
-<summary><b>Roehrdanz Immobilien — CMS & Modern Real Estate Platform</b></summary>
-
-- Real estate listing management, client requests, and service presentations with an integrated admin panel.
-- Delivered a modern real estate platform with a custom **MERN CMS** (React 19, Express 5, MongoDB).
-- Developed a robust admin panel with asynchronous **Base64 image processing** and SEO-optimized dynamic content rendering.
-- Built a secure employee-only dashboard with session authentication, **Bcryptjs** hashing, and **RBAC** for content moderation.
-- Optimized frontend performance with **Vite** and **Tailwind CSS v4**, achieving near-instant load times for high-resolution photo galleries.
-
-</details>
-
-<details>
-<summary><b>B-moovd — High-Performance Mobile Ecosystem</b></summary>
-
-- High-performance mobile application for smooth booking, payment orchestration, and real-time user engagement.
-- Developed a reactive cross-platform mobile application with **Flutter**, implementing **Provider** state management and smooth **60 FPS** animations.
-- Integrated RESTful API calls with **Dio** and local persistent caching for a smooth offline-first experience.
-- Optimized bundle size and resource allocation for high performance across a wide range of mobile devices.
-
-</details>
-
-<details>
-<summary><b>B-moovd Ticketing — Event Ticketing Platform (bmoovd-shop.com)</b></summary>
-
-- Production event ticketing platform for the B'moovd Sportsbar Wolfsburg — currently selling tickets for **FIFA World Cup 2026** public viewing events at Wolfsburg.
-- Developed a full-featured ticketing web application in **Next.js** for the B'moovd venue — a subsidiary of Röhrdanz Unternehmensgruppe.
-- Implemented event listing, ticket selection, and payment flows with complete payment orchestration.
-- Delivered a mobile-optimized storefront with a visual identity aligned with the B'moovd brand.
-- Deployed under the Axynoxia brand, serving thousands of fans across multiple World Cup events.
-
-</details>
-
-<details>
-<summary><b>Confortex — Shopify E-commerce (confortex.shop)</b></summary>
-
-- Developed a full **Shopify** store for a premium Tunisian bedding brand, covering mattresses, pillows, beds, baby products, and home linen.
-- Configured a multi-collection product architecture, custom storefront theme, and SEO-optimized blog content to drive organic traffic.
-- Implemented free delivery promotions, newsletter integration, and a multi-showroom contact system across 3 physical locations in Ariana, Tunisia.
-
-</details>
-
-<details>
-<summary><b>Vie Sublime — Shopify E-commerce (viesublime.tn)</b></summary>
-
-- Created a premium **Shopify** storefront for a high-end Tunisian brand specializing in artisanal interior, office, outdoor, and school furniture.
-- Structured a multi-collection catalog (Tables & Chairs, Interior Furniture, Office, School, Garden) with a custom theme aligned to a luxury brand identity.
-- Delivered an SEO-focused content blog, newsletter integration, and multi-showroom management to support online and physical sales channels.
-
-</details>
-
-<details>
 <summary><b>MERN E-commerce — Industrial SaaS Infrastructure</b></summary>
 
 - Industrial retail platform for product catalog management, customer orders, and secure payment flows.
 - Developed a complete e-commerce ecosystem with the **MERN** stack, focused on industrial security via **JWT** and **Argon2**.
 - Built an advanced admin dashboard with real-time order tracking, inventory management, and cloud-integrated asset management via **Multer**.
 - Implemented a responsive frontend architecture with **Redux Toolkit** for complex state persistence in purchase workflows.
-
-</details>
-
-<details>
-<summary><b>OMHY Entertainment — Managed Video Hub (omhyfamily.com)</b></summary>
-
-- Premium digital media hub for high-fidelity video streaming, content portfolios, and interactive user experiences.
-- Developed a video streaming and portfolio platform with **React (Chakra UI)** and **GSAP** for high-fidelity interactive animations.
-- Orchestrated Zero-Downtime deployments via **Jenkins** pipelines with automated quality gates and security audits.
-- Managed hybrid database architectures (**MongoDB** and **MySQL**) to balance flexible content metadata and strict user transaction history.
 
 </details>
 
