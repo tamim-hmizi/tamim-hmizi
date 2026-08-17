@@ -2,32 +2,44 @@
 
 # 👋 Hi, I'm Tamim Hmizi
 
-**Full Stack Engineer | Cloud & DevOps | SaaS & Enterprise**
+**Founder of Axynoxia** • Full Stack Engineer • Cloud & DevOps • AI Automation
 
 <a href="https://tamim-hmizi.github.io/Portfolio/"><img src="https://tamim-hmizi.github.io/Portfolio/portfolio.png" alt="Portfolio" width="40" height="40" /></a>
-<a href="mailto:tamimhmizi@icloud.com"><img src="https://skillicons.dev/icons?i=apple" alt="Email" width="40" height="40" /></a>
+<a href="mailto:tamim.hmizi@axynoxia.com"><img src="https://skillicons.dev/icons?i=apple" alt="Email" width="40" height="40" /></a>
 <a href="https://www.linkedin.com/in/tamimhmizi/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" /></a>
 <a href="https://github.com/tamim-hmizi"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" /></a>
 
-*Building enterprise SaaS • Automating CI/CD • Hybrid Cloud Architecture • Observability • Security*
+*I design, build and run software end to end — products and the cloud infrastructure underneath them.*
 
 </div>
 
 ---
 
-## 💼 Current Role
+## 💼 What I Do
 
-- 🏢 **Full Stack Engineer** @ **Bassetti Group (TEEXMA)** • *May 2025 -- Present* • Remote  
-- 🔧 Contributing to **TEEXMA** — an enterprise no-code platform for technical and scientific data management used by **1M+ users** in Aerospace, Energy, Automotive & Pharmaceutical sectors (Airbus, Safran, Framatome, Saint-Gobain)
+I run **[Axynoxia](https://axynoxia.com)** — a software engineering company delivering custom software,
+cloud & DevOps, AI and intelligent automation, integrations, and e-commerce for clients across Europe and Tunisia.
+
+- 🏗️ **Custom software** — web platforms, mobile apps, multi-tenant SaaS, ERP, ticketing
+- ☁️ **Cloud & DevOps** — architecture, IaC, CI/CD, containers, observability, security
+- 🤖 **AI & automation** — LLM-driven analysis, intelligent workflows
+- 🛒 **E-commerce & integrations** — Shopify storefronts, payments, third-party systems
+
+I own delivery end to end: architecture, full-stack build, production deployment, and the infrastructure it runs on.
+
+📅 **[Book a call](https://calendly.com/axynoxia/axynoxia-discovery-call)**
 
 ---
 
 ## 👤 Professional Profile
 
-**Full Stack and Cloud DevOps Engineer** with over 6 years of hands-on experience spanning freelance, academic, and internship projects — now in a full-time role.  
-Deep expertise in **Kubernetes, Terraform, CI/CD automation, and cloud-native architecture** across Azure, AWS, and OpenStack.  
-Currently **Full Stack Engineer at Bassetti Group**, contributing to TEEXMA — an enterprise collaborative no-code platform for technical and scientific data management used by 1M+ users in regulated industries.  
-Previously **Infrastructure Consultant for a Microsoft Gold CSP Partner** — achieving **70% reduction in deployment time** and **40% reduction in manual tasks**.
+Software engineer and **founder of Axynoxia**, with **6+ years of hands-on experience** across enterprise
+platforms, multi-tenant SaaS, mobile apps, and production e-commerce.  
+Deep expertise in **Kubernetes, Terraform, CI/CD automation, and cloud-native architecture** on Azure, AWS, and OpenStack.  
+Track record includes enterprise platforms serving **1M+ users** in regulated industries, sovereign hybrid-cloud
+infrastructure for a Microsoft Gold CSP Partner, and automation delivering **70% faster deployments** and a
+**40% reduction in manual overhead**.  
+Working languages: **Arabic, French, English**.
 
 ---
 
@@ -235,8 +247,19 @@ Previously **Infrastructure Consultant for a Microsoft Gold CSP Partner** — ac
 
 ## 💼 Professional Experience
 
+<details open>
+<summary><b>🚀 Founder & Software Engineer — Axynoxia</b> • <i>Jan 2026 -- Present</i> • <i>Tunis, Tunisia</i></summary>
+
+- Founded and run a **software engineering company** serving clients across Europe and Tunisia — custom software, cloud & DevOps, AI and intelligent automation, integrations, and e-commerce.
+- **Own the full delivery lifecycle** on every engagement: scoping, architecture, full-stack implementation, cloud provisioning, CI/CD, observability, and production operations.
+- Shipped and operate production systems — a **high-concurrency ticketing platform**, a **Flutter app live on the App Store and Google Play**, a **real estate CMS**, and **Shopify storefronts**.
+- Building **multi-tenant SaaS** in-house — a modular ERP and an enterprise ticketing platform — on **NestJS**, **Prisma**, **PostgreSQL**, **Redis**, and **Traefik**.
+- Handle client relationships, technical scoping, and commercial delivery directly.
+
+</details>
+
 <details>
-<summary><b>🏢 Full Stack Engineer — Bassetti Group (TEEXMA)</b> • <i>May 2025 -- Present</i> • <i>Remote</i></summary>
+<summary><b>🏢 Full Stack Engineer — Bassetti Group (TEEXMA)</b> • <i>Apr 2026 -- Present</i> • <i>Tunis, Tunisia</i></summary>
 
 - Full stack development on enterprise applications using **.NET**, **Angular**, **JavaScript**, **HTML**, and **CSS** on the **TEEXMA** platform — a collaborative no-code solution for technical and scientific data management.
 - Maintenance and extension of **legacy Delphi modules** constituting the central processing engine of TEEXMA.
@@ -246,7 +269,7 @@ Previously **Infrastructure Consultant for a Microsoft Gold CSP Partner** — ac
 </details>
 
 <details>
-<summary><b>🏢 Infrastructure Consultant — RFC (Microsoft Gold CSP Partner)</b> • <i>Oct 2024 -- May 2025</i> • <i>Ariana, Tunisia</i></summary>
+<summary><b>🏢 Infrastructure Consultant — RFC (Microsoft Gold CSP Partner)</b> • <i>Oct 2025 -- May 2026</i> • <i>Ariana, Tunisia</i></summary>
 
 - Designed and optimized **production hybrid cloud infrastructures** for a major Microsoft Cloud Solution Provider (CSP), integrating **Azure Stack Hub** with public Azure services.
 - Architected **sovereign cloud environments** for enterprise clients, ensuring data residency and compliance via Microsoft-certified architectures.
@@ -473,10 +496,10 @@ Previously **Infrastructure Consultant for a Microsoft Gold CSP Partner** — ac
 
 <div align="center">
 
-### 💬 Let's Connect!
+### 💬 Let's build something
 
 <a href="https://tamim-hmizi.github.io/Portfolio/"><img src="https://tamim-hmizi.github.io/Portfolio/portfolio.png" alt="Portfolio" width="40" height="40" /></a>
-<a href="mailto:tamimhmizi@icloud.com"><img src="https://skillicons.dev/icons?i=apple" alt="Email" width="40" height="40" /></a>
+<a href="mailto:tamim.hmizi@axynoxia.com"><img src="https://skillicons.dev/icons?i=apple" alt="Email" width="40" height="40" /></a>
 <a href="https://www.linkedin.com/in/tamimhmizi/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" /></a>
 <a href="https://github.com/tamim-hmizi"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" /></a>
 
