@@ -18,7 +18,7 @@
 ## 💼 What I Do
 
 I run **[Axynoxia](https://axynoxia.com)** — a software engineering company delivering custom software,
-cloud & DevOps, AI and intelligent automation, integrations, and e-commerce for clients across Europe and Tunisia.
+cloud & DevOps, AI and intelligent automation, integrations, and e-commerce for growing businesses.
 
 - 🏗️ **Custom software** — web platforms, mobile apps, multi-tenant SaaS, ERP, ticketing
 - ☁️ **Cloud & DevOps** — architecture, IaC, CI/CD, containers, observability, security
@@ -250,7 +250,7 @@ Working languages: **Arabic, French, English**.
 <details open>
 <summary><b>🚀 Founder & Software Engineer — Axynoxia</b> • <i>Jan 2026 -- Present</i> • <i>Tunis, Tunisia</i></summary>
 
-- Founded and run a **software engineering company** serving clients across Europe and Tunisia — custom software, cloud & DevOps, AI and intelligent automation, integrations, and e-commerce.
+- Founded and run a **software engineering company** serving growing businesses: custom software, cloud & DevOps, AI and intelligent automation, integrations, and e-commerce.
 - **Own the full delivery lifecycle** on every engagement: scoping, architecture, full-stack implementation, cloud provisioning, CI/CD, observability, and production operations.
 - Shipped and operate production systems — a **high-concurrency ticketing platform**, a **Flutter app live on the App Store and Google Play**, a **real estate CMS**, and **Shopify storefronts**.
 - Building **multi-tenant SaaS** in-house — a modular ERP and an enterprise ticketing platform — on **NestJS**, **Prisma**, **PostgreSQL**, **Redis**, and **Traefik**.
