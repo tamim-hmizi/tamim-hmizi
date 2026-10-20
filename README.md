@@ -23,34 +23,22 @@ My RFC final year project analyzes application repositories and recommends VM or
 | Infrastructure provisioning | [QuickOps infrastructure as code](https://github.com/tamim-hmizi/QuickOps-IAC) |
 | Environment configuration | [QuickOps configuration as code](https://github.com/tamim-hmizi/QuickOps-CAC) |
 
-### Projects
+### Selected projects
 
-My projects span application development, infrastructure, mobile, e-commerce, energy management and applied AI. Each original project has its own entry in the CVs.
+A focused selection of my work in software delivery, infrastructure and applied AI.
 
 | Project | Engineering scope |
 | --- | --- |
-| Enterprise Monitoring Platform | Dockerized Python/Flask exporters query Admin APIs through service principal OAuth2 |
-| Axynoxia ERP | NestJS, Prisma, PostgreSQL and Redis pnpm monorepo with single tenant deployments, module auto-discovery, access requests, MFA, RBAC, first-login rotation and Argon2. |
-| Tickety | React/Vite and TypeScript pnpm monorepo with bcrypt authentication, cookie sessions, checkout, pending-order expiry and concurrent refund handling |
-| Roehrdanz Immobilien | React 19, Express 5 and MongoDB CMS for listings and enquiries |
-| B'moovd | Flutter/Dart application for iOS, Android and web, published on the App Store and Google Play |
-| B'moovd Ticketing | Next.js 14 App Router, strict TypeScript, tRPC and MongoDB/Prisma |
-| Confortex | Custom bedding storefront with product collections, SEO blog, newsletter integration, delivery promotions and contact information for three showrooms. |
-| Vie Sublime | Custom furniture storefront with indoor, office, school and garden collections, editorial content, newsletter integration and showroom information. |
-| Axynoxia Energie | TypeScript services for domain model, API, control, HMI and simulation, modeled on ADAM plant design: 5.5 MWp PV, 2.2 MW/1.5 MWh BESS two 8.25 MVA turbines and 20/11. |
-| ProInvoice | React 19/Vite, TanStack Query, React Hook Form and Zod with Express/TypeScript and MongoDB |
-| Axynoxia LeadGen | NestJS/Next.js project in development with Temporal and LangGraph workflows, waterfall enrichment, email verification gates, field provenance, provider attempt logs,. |
-| Axynoxia CRM and Leasing | MERN platform for lease origination through accounting, with IFRS 16/BCT oriented financial calculations, 10-role RBAC, Arabic RTL, background jobs and containerized. |
-| Habiter Mieux | French solar installation site with service and subsidy information, search optimization and a quote request funnel connected to the client sales workflow. |
-| MERN E-commerce | React and Redux Toolkit storefront, Express and MongoDB API, JWT authentication, Argon2 password hashing, order/inventory administration and Multer uploads. |
-| OMHY Entertainment | React/Chakra UI and GSAP media and portfolio experience |
-| Jektis Travel | PHP platform for flight and hotel booking, price scraping and Stripe payment integration |
-| New Journey | Symfony 7/PHP 8.2 with modular controllers, Doctrine ORM, UX Turbo, Stimulus, multi-user authentication and RBAC |
-| DevOps CI/CD Hub | Jenkins delivery pipelines for Angular and Spring Boot microservices, integrating SonarQube quality gates, Trivy security scanning and Nexus artifact versioning. |
-| OpenStack Private Cloud Lab | Multi-node cloud with virtual networks, subnets, compute, storage and VPN-over-physical connectivity |
-| NexGen Studios | Next.js App Router website, containerized with Docker and served by Nginx. |
+| [QuickOps](https://github.com/tamim-hmizi/QuickOps-AI) | React, Express and FastAPI platform combining LLM repository analysis, Terraform/Ansible provisioning, VM/AKS deployment and Jenkins pipelines. RFC final year project. |
+| Enterprise Monitoring Platform | Dockerized Python/Flask exporters, service principal OAuth2, Prometheus/Grafana dashboards and alerts for infrastructure, storage fabric and tenant VM compute/IOPS. |
+| [B'moovd Ticketing](https://bmoovd-shop.com/) | Next.js/tRPC and MongoDB/Prisma; Stripe, Mollie and PayPal checkout, signed QR tickets, camera check-in, emailed PDFs and NextAuth roles. |
+| [B'moovd](https://apps.apple.com/de/app/bmoovd/id6736364332) | Flutter/Dart app published on App Store and Google Play, with Firebase Auth, Firestore, Cloud Functions, Storage, Stripe and release pipelines. |
+| [Axynoxia ERP](https://erp.products.axynoxia.com/) | NestJS, Prisma, PostgreSQL and Redis; module discovery, dedicated client deployments, MFA, RBAC, Argon2, Docker Compose and Traefik. |
+| [Axynoxia Energie](https://energie.products.axynoxia.com/) | TypeScript services and plant simulator for solar/battery telemetry, alarms and HMI supervisory control, modeled on ADAM plant design. |
+| [Roehrdanz Immobilien](https://rimmobilien-test.de/) | React, Express and MongoDB platform with property listings, enquiries, employee sessions, RBAC, image processing and dynamic SEO content. |
+| [Confortex](https://confortex.shop/) | Custom bedding storefront with collection architecture, SEO editorial content, newsletter integration, delivery promotions and showroom information. |
 
-[Project details and available links](https://tamim-hmizi.github.io/Portfolio/#projects)
+[Explore selected work](https://tamim-hmizi.github.io/Portfolio/#projects)
 
 ## Core skills
 
