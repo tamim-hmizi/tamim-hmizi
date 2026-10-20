@@ -401,13 +401,6 @@ Solar installation website with service and subsidy information, search optimiza
 </details>
 
 <details>
-<summary><b>NexGen Studios</b></summary>
-
-Next.js App Router marketing website, containerized with Docker and served by Nginx.
-
-</details>
-
-<details>
 <summary><b>Axynoxia Energie</b> · <a href="https://energie.products.axynoxia.com">Website / demo</a></summary>
 
 TypeScript domain, API, control, HMI and simulation services modeled on the ADAM plant design. Solar/battery telemetry, alarms and supervisory control in a hosted demo; not safety instrumentation.
@@ -467,13 +460,6 @@ React/Redux storefront and Express/MongoDB API with authentication, cart, favori
 <summary><b>New Journey</b></summary>
 
 Symfony/PHP consulting application with consultation booking and date lookup, administration, Doctrine persistence, authentication and Docker Compose configuration.
-
-</details>
-
-<details>
-<summary><b>Jektis Travel</b></summary>
-
-PHP travel application with city and offer management, reservations, feedback, registration, authentication and administration views. Historical project.
 
 </details>
 
