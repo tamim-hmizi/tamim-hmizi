@@ -23,21 +23,34 @@ My RFC final year project analyzes application repositories and recommends VM or
 | Infrastructure provisioning | [QuickOps infrastructure as code](https://github.com/tamim-hmizi/QuickOps-IAC) |
 | Environment configuration | [QuickOps configuration as code](https://github.com/tamim-hmizi/QuickOps-CAC) |
 
-### Client delivery
+### Projects
 
-| Project | My work |
+My projects span application development, infrastructure, mobile, e-commerce, energy management and applied AI. Each original project has its own entry in the three-page CVs.
+
+| Project | Engineering scope |
 | --- | --- |
-| [B'moovd Ticketing](https://bmoovd-shop.com/) | Next.js/tRPC ticket shop, payment integrations, signed QR tickets and camera check-in. |
-| B'moovd mobile app: [App Store](https://apps.apple.com/de/app/bmoovd/id6736364332), [Google Play](https://play.google.com/store/apps/details?id=com.bmoovd.app) | Flutter app with Firebase services, reservations and payment integration. |
-| [Roehrdanz Immobilien](https://rimmobilien-test.de/) | React, Express and MongoDB real estate CMS with listing administration and role based access. |
-| [Confortex](https://confortex.shop/), [Vie Sublime](https://www.viesublime.tn/) | Shopify storefronts with custom themes, collection catalogs and editorial content. |
-| [Habiter Mieux](https://habiter-mieux.info/) | Solar installation website and quote request funnel. |
+| Enterprise Monitoring Platform | Dockerized Python/Flask exporters query Admin APIs through service principal OAuth2 |
+| Axynoxia ERP | NestJS, Prisma, PostgreSQL and Redis pnpm monorepo with single tenant deployments, module auto-discovery, access requests, MFA, RBAC, first-login rotation and Argon2. |
+| Tickety | React/Vite and TypeScript pnpm monorepo with bcrypt authentication, cookie sessions, checkout, pending-order expiry and concurrent refund handling |
+| Roehrdanz Immobilien | React 19, Express 5 and MongoDB CMS for listings and enquiries |
+| B'moovd | Flutter/Dart application for iOS, Android and web, published on the App Store and Google Play |
+| B'moovd Ticketing | Next.js 14 App Router, strict TypeScript, tRPC and MongoDB/Prisma |
+| Confortex | Custom bedding storefront with product collections, SEO blog, newsletter integration, delivery promotions and contact information for three showrooms. |
+| Vie Sublime | Custom furniture storefront with indoor, office, school and garden collections, editorial content, newsletter integration and showroom information. |
+| Axynoxia Energie | TypeScript services for domain model, API, control, HMI and simulation, modeled on ADAM plant design: 5.5 MWp PV, 2.2 MW/1.5 MWh BESS two 8.25 MVA turbines and 20/11. |
+| ProInvoice | React 19/Vite, TanStack Query, React Hook Form and Zod with Express/TypeScript and MongoDB |
+| Axynoxia LeadGen | NestJS/Next.js project in development with Temporal and LangGraph workflows, waterfall enrichment, email verification gates, field provenance, provider attempt logs,. |
+| Axynoxia CRM and Leasing | MERN platform for lease origination through accounting, with IFRS 16/BCT oriented financial calculations, 10-role RBAC, Arabic RTL, background jobs and containerized. |
+| Habiter Mieux | French solar installation site with service and subsidy information, search optimization and a quote request funnel connected to the client sales workflow. |
+| MERN E-commerce | React and Redux Toolkit storefront, Express and MongoDB API, JWT authentication, Argon2 password hashing, order/inventory administration and Multer uploads. |
+| OMHY Entertainment | React/Chakra UI and GSAP media and portfolio experience |
+| Jektis Travel | PHP platform for flight and hotel booking, price scraping and Stripe payment integration |
+| New Journey | Symfony 7/PHP 8.2 with modular controllers, Doctrine ORM, UX Turbo, Stimulus, multi-user authentication and RBAC |
+| DevOps CI/CD Hub | Jenkins delivery pipelines for Angular and Spring Boot microservices, integrating SonarQube quality gates, Trivy security scanning and Nexus artifact versioning. |
+| OpenStack Private Cloud Lab | Multi-node cloud with virtual networks, subnets, compute, storage and VPN-over-physical connectivity |
+| NexGen Studios | Next.js App Router website, containerized with Docker and served by Nginx. |
 
-More client work, infrastructure projects and independent applications are in my [portfolio](https://tamim-hmizi.github.io/Portfolio/#projects).
-
-### Axynoxia product demos
-
-I'm developing a [modular ERP](https://erp.products.axynoxia.com/), [ticketing platform](https://tickets.products.axynoxia.com/), [invoicing application](https://invoice.products.axynoxia.com/), [leasing CRM](https://crm-leasing.products.axynoxia.com/) and [energy management demo](https://energie.products.axynoxia.com/). These show ongoing product engineering; project details and stacks are in the portfolio.
+[Project details and available links](https://tamim-hmizi.github.io/Portfolio/#projects)
 
 ## Core skills
 
