@@ -7,7 +7,7 @@ My applied AI work connects large language models to practical workflows, includ
 
 I'm a Full Stack Engineer at **Bassetti Group** and the founder of **[Axynoxia](https://www.axynoxia.com)**, where I deliver custom software, cloud engineering, intelligent automation, integrations and e-commerce.
 
-[Portfolio](https://tamim-hmizi.github.io/Portfolio/) · [Resume in English, 3 pages](https://tamim-hmizi.github.io/Portfolio/resume-en.pdf) · [CV en français, 3 pages](https://tamim-hmizi.github.io/Portfolio/cv-fr.pdf) · [LinkedIn](https://www.linkedin.com/in/tamimhmizi/) · [Email](mailto:tamimhmizi@icloud.com)
+[Portfolio](https://tamim-hmizi.github.io/Portfolio/) · [Resume in English](https://tamim-hmizi.github.io/Portfolio/resume-en.pdf) · [CV en français](https://tamim-hmizi.github.io/Portfolio/cv-fr.pdf) · [LinkedIn](https://www.linkedin.com/in/tamimhmizi/) · [Email](mailto:tamimhmizi@icloud.com)
 
 ## Engineering work you can inspect
 
@@ -25,7 +25,7 @@ My RFC final year project analyzes application repositories and recommends VM or
 
 ### Projects
 
-My projects span application development, infrastructure, mobile, e-commerce, energy management and applied AI. Each original project has its own entry in the three-page CVs.
+My projects span application development, infrastructure, mobile, e-commerce, energy management and applied AI. Each original project has its own entry in the CVs.
 
 | Project | Engineering scope |
 | --- | --- |
