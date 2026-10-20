@@ -37,7 +37,7 @@ Software engineer and **founder of Axynoxia**, combining full stack development,
 
 My **QuickOps** final year project connects LLM repository analysis with Terraform, Ansible, Jenkins and Kubernetes deployment. Earlier RFC work covers Azure Stack Hub, hybrid cloud operations, observability and backup.
 
-Working languages: **Arabic, French, English**.
+Working languages: **Arabic (native), French (B2), English (C1)**.
 
 📄 **[English résumé](https://tamim-hmizi.github.io/Portfolio/resume-en.pdf)** · **[CV français](https://tamim-hmizi.github.io/Portfolio/cv-fr.pdf)**
 
@@ -247,13 +247,6 @@ Working languages: **Arabic, French, English**.
 
 ## 💼 Professional Experience
 
-<div align="center">
-<a href="https://axynoxia.com"><img src="assets/employers/axynoxia-logo.png" alt="Axynoxia" height="42" /></a>
-<a href="https://www.bassetti-group.com/"><img src="assets/employers/BASSETTI-GROUP.webp" alt="Bassetti Group" height="42" /></a>
-<a href="https://rfc.com.tn"><img src="assets/employers/rfclogo.png" alt="RFC" height="42" /></a>
-<a href="https://esprit.tn"><img src="assets/employers/espritlogo.jpg" alt="ESPRIT" height="42" /></a>
-<a href="https://www.tunisietelecom.tn"><img src="assets/employers/tunisie-telecom-logo.png" alt="Tunisie Telecom" height="42" /></a>
-</div>
 
 
 <details open>
@@ -491,7 +484,7 @@ ESPRIT multi-node OpenStack lab with virtual networks, subnets, compute, storage
 <div align="center">
 
 ![Arabic](https://img.shields.io/badge/Arabic-Native-0066CC?style=for-the-badge)
-![English](https://img.shields.io/badge/English-B2-0066CC?style=for-the-badge)
+![English](https://img.shields.io/badge/English-C1-0066CC?style=for-the-badge)
 ![French](https://img.shields.io/badge/French-B2-0066CC?style=for-the-badge)
 
 </div>
