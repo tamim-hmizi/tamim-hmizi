@@ -20,9 +20,12 @@ I'm a software engineer who builds products **and the cloud they run on**. I'm a
 
 I design, ship and operate web and mobile applications on Azure, AWS and Kubernetes, automate their delivery with infrastructure as code and CI/CD, and add LLM features where they help.
 
-| 7 | 6 | 45 | 2 |
-|:-:|:-:|:-:|:-:|
-| client projects delivered | Axynoxia products in production | merged pull requests at Bassetti | Azure Stack Hub datacenters monitored |
+**What I do**
+
+- **Full stack engineering:** web and mobile apps with React, Next.js, Angular, Flutter, Node.js, NestJS and .NET.
+- **Cloud and DevOps:** Azure, AWS and Kubernetes, with Terraform, Ansible, CI/CD and Prometheus/Grafana monitoring.
+- **AI and automation:** LLM features and workflow automation where they save real time.
+- **Delivery end to end:** from scoping and architecture to production, monitoring and support.
 
 ## Tech stack
 
@@ -44,11 +47,11 @@ Also: Azure Stack Hub, AKS, AWS EKS and IAM, OpenStack, Helm, SonarQube, Trivy, 
 
 **Full Stack Engineer · [Bassetti Group](https://www.bassetti-group.com/) (TEEXMA)** · Apr 2026 to present · Tunis
 - Enterprise applications for technical and scientific data management with .NET, Angular and JavaScript, used across aerospace, energy, automotive, chemicals and pharmaceuticals.
-- Delphi core modules, Docker workloads and delivery automation: 45 merged pull requests across 11 repositories, including Jenkins and Terraform CI.
+- Delphi core modules, Docker workloads and delivery automation, including Jenkins and Terraform CI.
 
 **Founder & Software Engineer · [Axynoxia](https://www.axynoxia.com)** · Jan 2026 to present · Tunis
 - Lead a team delivering fixed-scope client projects, from scoping and architecture to cloud provisioning, CI/CD and production operations.
-- 7 client projects delivered, 6 in production, plus 6 Axynoxia products running behind a shared Caddy edge proxy.
+- Client work from mobile apps to ticketing, e-commerce and real estate platforms, plus our own products running behind a shared Caddy edge proxy.
 
 **Infrastructure Consultant · [RFC](https://rfc.com.tn) (Microsoft Gold CSP Partner)** · Oct 2025 to May 2026 · Ariana
 - Hybrid cloud combining Azure Stack Hub and Azure, sovereign cloud and data residency, Fortinet SD-WAN and Cisco networking.
