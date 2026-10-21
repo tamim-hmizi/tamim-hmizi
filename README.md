@@ -16,9 +16,9 @@
 
 ## About me
 
-I'm a software engineer who builds products **and the cloud they run on**. I'm a **Full Stack Engineer at [Bassetti Group](https://www.bassetti-group.com/)** on TEEXMA, and the **founder of [Axynoxia](https://www.axynoxia.com)**, a software engineering team that delivers custom platforms, automation and cloud setups for growing businesses.
+I'm a software engineer who ships products **and the cloud they run on**. I'm a **Full Stack Engineer at [Bassetti Group](https://www.bassetti-group.com/)** on TEEXMA, and the **founder of [Axynoxia](https://www.axynoxia.com)**, where I have delivered **8 client projects and 7 products** from scoping to production.
 
-I design, ship and operate web and mobile applications on Azure, AWS and Kubernetes, automate their delivery with infrastructure as code and CI/CD, and add LLM features where they help.
+I build web and mobile applications, run them on Azure, AWS and Kubernetes, automate their delivery with Terraform, Ansible and CI/CD, and add LLM features where they save real time. Every public project here has automated tests, CI and security scanning.
 
 **What I do**
 
