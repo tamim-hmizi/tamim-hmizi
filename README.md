@@ -10,7 +10,7 @@
 <a href="https://www.axynoxia.com"><img src="https://img.shields.io/badge/Axynoxia-111827?style=for-the-badge&logo=rocket&logoColor=eab308" alt="Axynoxia" /></a>
 <a href="https://calendly.com/axynoxia/axynoxia-discovery-call"><img src="https://img.shields.io/badge/Book_a_call-111827?style=for-the-badge&logo=calendly&logoColor=white" alt="Book a call" /></a>
 
-<a href="https://tamim-hmizi.github.io/Portfolio/resume-en.pdf"><b>English resume</b></a> · <a href="https://tamim-hmizi.github.io/Portfolio/cv-fr.pdf"><b>CV français</b></a>
+<a href="https://tamim-hmizi.github.io/Portfolio/resume-en-short.pdf"><b>English resume</b></a> (<a href="https://tamim-hmizi.github.io/Portfolio/resume-en.pdf">full</a>) · <a href="https://tamim-hmizi.github.io/Portfolio/cv-fr-short.pdf"><b>CV français</b></a> (<a href="https://tamim-hmizi.github.io/Portfolio/cv-fr.pdf">complet</a>)
 
 </div>
 
