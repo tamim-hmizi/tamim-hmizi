@@ -53,7 +53,7 @@ Also: Azure Stack Hub, AKS, AWS EKS and IAM, OpenStack, Helm, SonarQube, Trivy, 
 - Lead a team delivering fixed-scope client projects, from scoping and architecture to cloud provisioning, CI/CD and production operations.
 - Client work from mobile apps to ticketing, e-commerce and real estate platforms, plus our own products running behind a shared Caddy edge proxy.
 
-**Infrastructure Consultant · [RFC](https://rfc.com.tn) (Microsoft Gold CSP Partner)** · Oct 2025 to May 2026 · Ariana
+**Infrastructure Consultant · [RFC](https://rfc.com.tn) (Microsoft Gold CSP Partner)** · Oct 2025 to Apr 2026 · Ariana
 - Hybrid cloud combining Azure Stack Hub and Azure, sovereign cloud and data residency, Fortinet SD-WAN and Cisco networking.
 - Prometheus and Grafana monitoring for 2 Azure Stack Hub datacenters; Commvault backups with restore validation; workshops on cloud security and Microsoft 365 governance.
 
