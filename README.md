@@ -107,7 +107,7 @@ Each featured project has a short case study (problem, role, approach, result) o
 | **[Habiter Mieux](https://habiter-mieux.info/)** | Solar lead generation site with a qualification funnel. | React |
 | **[Confortex](https://confortex.shop/)** | Custom Shopify theme for a bedding brand. | Shopify |
 | **[Vie Sublime](https://www.viesublime.tn/)** | Custom Shopify theme for a furniture brand. | Shopify |
-| **[Digiqora Media](https://digiqoramedia.com)** | Content agency site, fast on mobile with click-to-load video. | Astro, Tailwind, GSAP, Cloudflare Pages |
+| **[Digiqora Media](https://digiqora-media.pages.dev)** | Content agency site, fast on mobile with click-to-load video. | Astro, Tailwind, GSAP, Cloudflare Pages |
 | **OMHY Entertainment** | Media platform for artists, albums, casting and news. | React, Express, MongoDB, Jenkins |
 | **bmoovd Ticketing** | See featured projects. | |
 
