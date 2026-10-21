@@ -71,11 +71,31 @@ Also: Azure Stack Hub, AKS, AWS EKS and IAM, OpenStack, Helm, SonarQube, Trivy, 
 
 ## Featured projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[QuickOps](https://github.com/tamim-hmizi/QuickOps-Frontend)** | DevOps as a Service: LLM repository analysis, then automated VM or AKS deployment and monitoring. [AI](https://github.com/tamim-hmizi/QuickOps-AI) · [API](https://github.com/tamim-hmizi/QuickOps-Backend) · [IaC](https://github.com/tamim-hmizi/QuickOps-IAC) · [CaC](https://github.com/tamim-hmizi/QuickOps-CAC) | React, FastAPI, Express, Terraform, Ansible, Jenkins, AKS |
-| **[bmoovd Ticketing](https://bmoovd-shop.com)** | Ticket shop for FIFA World Cup 2026 public viewing events in Wolfsburg, with signed QR tickets and camera check-in. | Next.js 14, tRPC, Prisma, Stripe, Mollie, PayPal |
-| **[Axynoxia ERP](https://erp.products.axynoxia.com)** | Modular ERP for operations, finance, inventory and reporting. | NestJS, Prisma, PostgreSQL, Redis, Traefik |
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://github.com/tamim-hmizi/QuickOps-Frontend"><img src="https://tamim-hmizi.github.io/Portfolio/projects/quickops.svg" alt="QuickOps architecture diagram" /></a>
+<h3><a href="https://github.com/tamim-hmizi/QuickOps-Frontend">QuickOps</a></h3>
+DevOps as a Service: an LLM analyzes a repository, recommends VM or Kubernetes, then Terraform, Ansible, AKS and Jenkins deploy and monitor it.<br /><br />
+<a href="https://github.com/tamim-hmizi/QuickOps-AI">AI</a> · <a href="https://github.com/tamim-hmizi/QuickOps-Backend">API</a> · <a href="https://github.com/tamim-hmizi/QuickOps-IAC">IaC</a> · <a href="https://github.com/tamim-hmizi/QuickOps-CAC">CaC</a><br />
+<sub>React · FastAPI · Express · Terraform · Ansible · Jenkins · AKS</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://bmoovd-shop.com"><img src="https://tamim-hmizi.github.io/Portfolio/projects/bmoovd-ticketing.webp" alt="bmoovd Ticketing homepage" /></a>
+<h3><a href="https://bmoovd-shop.com">bmoovd Ticketing</a></h3>
+Ticket shop for FIFA World Cup 2026 public viewing events in Wolfsburg, with signed QR tickets and camera check-in at the door.<br /><br />
+<sub>Next.js 14 · tRPC · Prisma · Stripe · Mollie · PayPal</sub>
+</td>
+<td width="33%" valign="top">
+<a href="https://erp.products.axynoxia.com"><img src="https://tamim-hmizi.github.io/Portfolio/projects/axynoxia-erp.webp" alt="Axynoxia ERP homepage" /></a>
+<h3><a href="https://erp.products.axynoxia.com">Axynoxia ERP</a></h3>
+Modular ERP for operations, finance, inventory and reporting, deployed per client with MFA and role-based access.<br /><br />
+<sub>NestJS · Prisma · PostgreSQL · Redis · Traefik</sub>
+</td>
+</tr>
+</table>
+
+Each featured project has a short case study (problem, role, approach, result) on the [portfolio](https://tamim-hmizi.github.io/Portfolio/#projects).
 
 <details>
 <summary><b>Client work (8)</b></summary>
@@ -88,7 +108,7 @@ Also: Azure Stack Hub, AKS, AWS EKS and IAM, OpenStack, Helm, SonarQube, Trivy, 
 | **[Confortex](https://confortex.shop/)** | Custom Shopify theme for a bedding brand. | Shopify |
 | **[Vie Sublime](https://www.viesublime.tn/)** | Custom Shopify theme for a furniture brand. | Shopify |
 | **[Digiqora Media](https://digiqoramedia.com)** | Content agency site, fast on mobile with click-to-load video. | Astro, Tailwind, GSAP, Cloudflare Pages |
-| **[OMHY Entertainment](https://omhyfamily.com/)** | Media platform for artists, albums, casting and news. | React, Express, MongoDB, Jenkins |
+| **OMHY Entertainment** | Media platform for artists, albums, casting and news. | React, Express, MongoDB, Jenkins |
 | **bmoovd Ticketing** | See featured projects. | |
 
 </details>
