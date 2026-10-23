@@ -49,16 +49,16 @@ Also: Azure Stack Hub, AKS, AWS EKS and IAM, OpenStack, Helm, SonarQube, Trivy, 
 - Enterprise applications for technical and scientific data management with .NET, Angular and JavaScript, used across aerospace, energy, automotive, chemicals and pharmaceuticals.
 - Delphi core modules, Docker workloads and delivery automation, including Jenkins and Terraform CI.
 
-**Founder & Software Engineer · [Axynoxia](https://www.axynoxia.com)** · Jan 2026 to present · Tunis
+**Founder & Software Engineer · [Axynoxia](https://www.axynoxia.com)** · Jan 2026 to present · Self-employed
 - Lead a team delivering fixed-scope client projects, from scoping and architecture to cloud provisioning, CI/CD and production operations.
-- Client work from mobile apps to ticketing, e-commerce and real estate platforms, plus our own products running behind a shared Caddy edge proxy.
+- Client work from mobile apps to ticketing, e-commerce and real estate platforms, plus ERP, Energie, GymOS, Tickets, CRM Leasing, Invoice and the company site. Self-hosted products run behind a shared Caddy edge proxy; Energie uses simulated data.
 
 **Infrastructure Consultant · [RFC](https://rfc.com.tn) (Microsoft Gold CSP Partner)** · Oct 2025 to Apr 2026 · Ariana
 - Hybrid cloud combining Azure Stack Hub and Azure, sovereign cloud and data residency, Fortinet SD-WAN and Cisco networking.
-- Prometheus and Grafana monitoring for 2 Azure Stack Hub datacenters; Commvault backups with restore validation; workshops on cloud security and Microsoft 365 governance.
+- Prometheus and Grafana monitoring for 2 Azure Stack Hub datacenters at 15-second resolution; Commvault backups with restore validation; workshops on cloud security and Microsoft 365 governance.
 
-**DevOps Platform Engineer, final year project · RFC** · Feb 2025 to Aug 2025
-- Built QuickOps, a DevOps as a Service platform where an LLM analyzes a repository and recommends VM or Kubernetes deployment, then Terraform, Ansible, AKS and Jenkins deliver it.
+**DevOps Platform Engineer (Final Year Project) · RFC** · Feb 2025 to Aug 2025
+- Built QuickOps, a DevOps as a Service platform where an LLM analyzes a repository and recommends VM or Kubernetes deployment, then Terraform, Ansible, AKS and Jenkins deliver it. Validated both VM and Kubernetes paths on 2 MERN applications.
 
 <details>
 <summary><b>Earlier roles</b></summary>
