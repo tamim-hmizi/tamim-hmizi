@@ -18,7 +18,7 @@
 
 I'm a software engineer who ships products **and the cloud they run on**. I'm a **Full Stack Engineer at [Bassetti Group](https://www.bassetti-group.com/)** on TEEXMA, and the **founder of [Axynoxia](https://www.axynoxia.com)**, where I have delivered **8 client projects and 7 products** from scoping to production.
 
-I build web and mobile applications, run them on Azure, AWS and Kubernetes, automate their delivery with Terraform, Ansible and CI/CD, and add LLM features where they save real time. Every public project here has automated tests, CI and security scanning.
+I build web and mobile applications, run them on Azure, AWS and Kubernetes, automate their delivery with Terraform, Ansible and CI/CD, and add LLM features where they save real time. My work includes automated testing, CI and security scanning.
 
 **What I do**
 
@@ -50,7 +50,7 @@ Also: Azure Stack Hub, AKS, AWS EKS and IAM, OpenStack, Helm, SonarQube, Trivy, 
 - Delphi core modules, Docker workloads and delivery automation, including Jenkins and Terraform CI.
 
 **Founder & Software Engineer · [Axynoxia](https://www.axynoxia.com)** · Jan 2026 to present · Self-employed
-- Lead a team delivering fixed-scope client projects, from scoping and architecture to cloud provisioning, CI/CD and production operations.
+- Deliver fixed-scope client projects, from scoping and architecture to cloud provisioning, CI/CD and production operations.
 - Client work from mobile apps to ticketing, e-commerce and real estate platforms, plus ERP, Energie, GymOS, Tickets, CRM Leasing, Invoice and the company site. Self-hosted products run behind a shared Caddy edge proxy; Energie uses simulated data.
 
 **Infrastructure Consultant · [RFC](https://rfc.com.tn) (Microsoft Gold CSP Partner)** · Oct 2025 to Apr 2026 · Ariana
@@ -118,7 +118,7 @@ Each featured project has a short case study (problem, role, approach, result) o
 
 | Product | What it is | Stack |
 |---|---|---|
-| **[Axynoxia Energie](https://energie.products.axynoxia.com)** | EMS and SCADA/HMI for hybrid solar and battery plants. | TypeScript, React |
+| **[Axynoxia Energie](https://energie.products.axynoxia.com)** | EMS and SCADA/HMI demonstration for hybrid solar and battery plants, using simulated data. | TypeScript, React |
 | **[Axynoxia GymOS](https://gymos.products.axynoxia.com)** | Multi-tenant gym management SaaS with member portal and kiosk. | Next.js, TypeScript |
 | **[Axynoxia Tickets](https://tickets.products.axynoxia.com)** | Event ticketing with QR entry control and Konnect payment. | React, TypeScript, Docker |
 | **[Axynoxia CRM Leasing](https://crm-leasing.products.axynoxia.com)** | CRM and lease contracts with IFRS 16 calculations and Arabic RTL. | MERN |
