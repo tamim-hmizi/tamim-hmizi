@@ -50,7 +50,7 @@ Also: Azure Stack Hub, AKS, AWS EKS and IAM, OpenStack, Helm, SonarQube, Trivy, 
 - Delphi core modules, Docker workloads and delivery automation, including Jenkins and Terraform CI.
 
 **Founder & Software Engineer · [Axynoxia](https://www.axynoxia.com)** · Jan 2026 to present · Self-employed
-- Deliver fixed-scope client projects, from scoping and architecture to cloud provisioning, CI/CD and production operations.
+- Lead a software engineering team delivering fixed-scope client projects, from scoping and architecture to cloud provisioning, CI/CD and production operations.
 - Client work from mobile apps to ticketing, e-commerce and real estate platforms, plus ERP, Energie, GymOS, Tickets, CRM Leasing, Invoice and the company site. Self-hosted products run behind a shared Caddy edge proxy; Energie uses simulated data.
 
 **Infrastructure Consultant · [RFC](https://rfc.com.tn) (Microsoft Gold CSP Partner)** · Oct 2025 to Apr 2026 · Ariana
