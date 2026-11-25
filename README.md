@@ -7,8 +7,7 @@
 <a href="https://tamim-hmizi.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-eab308?style=for-the-badge&logo=googlechrome&logoColor=111827" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/tamimhmizi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:tamimhmizi@icloud.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" /></a>
-<a href="https://www.axynoxia.com"><img src="https://img.shields.io/badge/Axynoxia-111827?style=for-the-badge&logo=rocket&logoColor=eab308" alt="Axynoxia" /></a>
-<a href="https://calendly.com/axynoxia/axynoxia-discovery-call"><img src="https://img.shields.io/badge/Book_a_call-111827?style=for-the-badge&logo=calendly&logoColor=white" alt="Book a call" /></a>
+<a href="https://www.linkedin.com/in/tamimhmizi/"><img src="https://img.shields.io/badge/Open_to_work-16a34a?style=for-the-badge&logoColor=white" alt="Open to work" /></a>
 
 <a href="https://tamim-hmizi.github.io/Portfolio/resume-en.pdf"><b>English resume</b></a> · <a href="https://tamim-hmizi.github.io/Portfolio/cv-fr.pdf"><b>CV français</b></a>
 
@@ -16,7 +15,9 @@
 
 ## About me
 
-I'm a software engineer who ships products **and the cloud they run on**. I'm a **Full Stack Engineer at [Bassetti Group](https://www.bassetti-group.com/)** on TEEXMA, and the **founder of [Axynoxia](https://www.axynoxia.com)**, where I have delivered **8 client projects and 7 products** from scoping to production.
+I'm a software engineer who ships products **and the cloud they run on**. I'm a **Full Stack Engineer at [Bassetti Group](https://www.bassetti-group.com/)** on TEEXMA. As a freelancer I have also delivered **8 client projects** and built several self-hosted products from scoping to production.
+
+I'm open to **full stack, cloud and DevOps engineering roles**.
 
 I build web and mobile applications, run them on Azure, AWS and Kubernetes, automate their delivery with Terraform, Ansible and CI/CD, and add LLM features where they save real time. My work includes automated testing, CI and security scanning.
 
@@ -49,9 +50,9 @@ Also: Azure Stack Hub, AKS, AWS EKS and IAM, OpenStack, Helm, SonarQube, Trivy, 
 - Enterprise applications for technical and scientific data management with .NET, Angular and JavaScript, used across aerospace, energy, automotive, chemicals and pharmaceuticals.
 - Delphi core modules, Docker workloads and delivery automation, including Jenkins and Terraform CI.
 
-**Founder & Software Engineer · [Axynoxia](https://www.axynoxia.com)** · Jan 2026 to present · Self-employed
-- Lead a software engineering team delivering fixed-scope client projects, from scoping and architecture to cloud provisioning, CI/CD and production operations.
-- Client work from mobile apps to ticketing, e-commerce and real estate platforms, plus ERP, Energie, GymOS, Tickets, CRM Leasing, Invoice and the company site. Self-hosted products run behind a shared Caddy edge proxy; Energie uses simulated data.
+**Freelance Software Engineer** · Jan 2026 to present · Self-employed
+- 8 client projects delivered end to end, from scoping and architecture to cloud provisioning, CI/CD and production operations.
+- Client work from mobile apps to ticketing, e-commerce and real estate platforms, plus self-hosted products (ERP, invoicing, ticketing, gym management, CRM leasing, energy management) behind a shared Caddy edge proxy; the energy demo uses simulated data.
 
 **Infrastructure Consultant · [RFC](https://rfc.com.tn) (Microsoft Gold CSP Partner)** · Oct 2025 to Apr 2026 · Ariana
 - Hybrid cloud combining Azure Stack Hub and Azure, sovereign cloud and data residency, Fortinet SD-WAN and Cisco networking.
@@ -87,8 +88,8 @@ Ticket shop for FIFA World Cup 2026 public viewing events in Wolfsburg, with sig
 <sub>Next.js 14 · tRPC · Prisma · Stripe · Mollie · PayPal</sub>
 </td>
 <td width="33%" valign="top">
-<a href="https://erp.products.axynoxia.com"><img src="https://tamim-hmizi.github.io/Portfolio/projects/axynoxia-erp.webp" alt="Axynoxia ERP homepage" /></a>
-<h3><a href="https://erp.products.axynoxia.com">Axynoxia ERP</a></h3>
+<a href="https://erp.products.axynoxia.com"><img src="https://tamim-hmizi.github.io/Portfolio/projects/axynoxia-erp.webp" alt="ERP Platform homepage" /></a>
+<h3><a href="https://erp.products.axynoxia.com">ERP Platform</a></h3>
 Modular ERP for operations, finance, inventory and reporting, deployed per client with MFA and role-based access.<br /><br />
 <sub>NestJS · Prisma · PostgreSQL · Redis · Traefik</sub>
 </td>
@@ -114,17 +115,16 @@ Each featured project has a short case study (problem, role, approach, result) o
 </details>
 
 <details>
-<summary><b>Axynoxia products (7)</b></summary>
+<summary><b>Products (6)</b></summary>
 
 | Product | What it is | Stack |
 |---|---|---|
-| **[Axynoxia Energie](https://energie.products.axynoxia.com)** | EMS and SCADA/HMI demonstration for hybrid solar and battery plants, using simulated data. | TypeScript, React |
-| **[Axynoxia GymOS](https://gymos.products.axynoxia.com)** | Multi-tenant gym management SaaS with member portal and kiosk. | Next.js, TypeScript |
-| **[Axynoxia Tickets](https://tickets.products.axynoxia.com)** | Event ticketing with QR entry control and Konnect payment. | React, TypeScript, Docker |
-| **[Axynoxia CRM Leasing](https://crm-leasing.products.axynoxia.com)** | CRM and lease contracts with IFRS 16 calculations and Arabic RTL. | MERN |
-| **[Axynoxia Invoice](https://invoice.products.axynoxia.com)** | Multi-currency invoicing with 2FA and PDF/Excel export. | React, Express, MongoDB |
-| **[Axynoxia Website](https://www.axynoxia.com)** | Company site with 3D visuals and a blog. | Astro, React, Three.js, Cloudflare Workers |
-| **Axynoxia ERP** | See featured projects. | |
+| **[Energy Management Platform](https://energie.products.axynoxia.com)** | EMS and SCADA/HMI demonstration for hybrid solar and battery plants, using simulated data. | TypeScript, React |
+| **[GymOS](https://gymos.products.axynoxia.com)** | Multi-tenant gym management SaaS with member portal and kiosk. | Next.js, TypeScript |
+| **[Ticketing Platform](https://tickets.products.axynoxia.com)** | Event ticketing with QR entry control and Konnect payment. | React, TypeScript, Docker |
+| **[CRM Leasing Platform](https://crm-leasing.products.axynoxia.com)** | CRM and lease contracts with IFRS 16 calculations and Arabic RTL. | MERN |
+| **[Invoicing Platform](https://invoice.products.axynoxia.com)** | Multi-currency invoicing with 2FA and PDF/Excel export. | React, Express, MongoDB |
+| **ERP Platform** | See featured projects. | |
 
 </details>
 
@@ -134,7 +134,7 @@ Each featured project has a short case study (problem, role, approach, result) o
 | Project | What it is | Stack |
 |---|---|---|
 | **Enterprise Monitoring Platform** (RFC) | Azure Stack Hub monitoring for 2 datacenters with dashboards and alerts. | Python, Prometheus, Grafana, Docker |
-| **Axynoxia Edge Proxy** | Shared reverse proxy and TLS for every Axynoxia project on one VPS. | Caddy, Docker Compose |
+| **Edge Proxy** | Shared reverse proxy and TLS for all self-hosted products on one VPS. | Caddy, Docker Compose |
 | **DevOps CI/CD Hub** (ESPRIT) | Pipelines for Angular and Spring Boot microservices. | Jenkins, SonarQube, Trivy, Nexus |
 | **OpenStack Private Cloud Lab** (ESPRIT) | Multi-node private cloud with networking, storage and HA. | OpenStack |
 | **[MERN E-commerce](https://github.com/tamim-hmizi/EcommerceShop-Frontend)** | Storefront and API in monolithic and microservice variants, used to validate QuickOps. | React, Redux, Express, MongoDB |
@@ -154,6 +154,6 @@ Arabic (native) · English (C1) · French (B2)
 
 <br />
 
-**Have something to build, scale or fix?** [Email me](mailto:tamimhmizi@icloud.com) or [book a call](https://calendly.com/axynoxia/axynoxia-discovery-call).
+**Open to full stack, cloud and DevOps roles.** [Email me](mailto:tamimhmizi@icloud.com) or [connect on LinkedIn](https://www.linkedin.com/in/tamimhmizi/).
 
 </div>
